@@ -31,8 +31,8 @@ var config = {
   authentication: {
       type: 'default',
       options: {
-          userName: process.env.USER_NAME, //(lior's line)
-          password: process.env.PASSWORD,  //(lior's line)
+          userName: process.env.USER_NAME, 
+          password: process.env.PASSWORD,  
       }
   },
   options: {
